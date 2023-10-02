@@ -1118,7 +1118,8 @@ a.btn.btn-primary.product-card-add-to-cart, .btn-primary {
 }
 
 .gallery-section.container.section-padding-space img {
-    height: auto!important
+    height: auto!important;
+    border-radius: 14px;
 }
 
 .gallery-item.col-6 {
